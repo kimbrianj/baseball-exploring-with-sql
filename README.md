@@ -1,7 +1,7 @@
 # Exploring Baseball Data with SQL
 
 Click this badge to launch the Binder:
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kimbrianj/intro-sql/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kimbrianj/baseball-exploring-with-sql/master)
 
 ## Navigating Jupyter
 
