@@ -1,6 +1,6 @@
 #!/bin/bash
 
-files='batting.sql pitching.sql'
+files='batting.sql pitching.sql players.sql'
 
 for file in $files
 do
